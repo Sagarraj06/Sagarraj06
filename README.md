@@ -90,6 +90,7 @@
 | 📧 [**SmartMail**](https://github.com/Sagarraj06/SmartMail) | AI-powered email assistant using voice recognition and LLM-based agentic workflows for hands-free Gmail management. | React • FastAPI • LangChain |
 | 🛒 [**SmartX**](https://github.com/Sagarraj06/SmartX) | Full-stack marketplace platform for buying and selling second-hand products with dynamic listings and responsive UI. | React • MongoDB |
 | 🔐 [**OS-Based File Encryptor**](https://github.com/Sagarraj06/OS-based-File-Encryptor) | C++ system-level file encryption tool implementing custom encryption algorithms using OS file handling concepts. | C++ |
+| 📧 [**Servora**](https://github.com/Sagarraj06/Servora) | Full-stack service booking platform enabling users to discover, book, and manage home services with secure authentication, real-time scheduling, and provider management. | React • Node.js • Express.js • MongoDB |
 
 ---
 
