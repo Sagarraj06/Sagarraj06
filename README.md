@@ -4,6 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Full+Stack+Developer+🚀;AI+%26+ML+Enthusiast+🤖;DevOps+Learner+⚙️;Problem+Solver+💡;Building+Scalable+Systems+⚡;Always+Learning+✨" alt="Typing SVG" />
 
+ 
 </div>
 
 ---
